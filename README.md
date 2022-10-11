@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SakethJammula
-- 👀 I'm a computer science grad student focused on building projects and experiences
+- 💻 I'm a computer science grad student focused on building projects and experiences
 - 🌱 I’m currently pursuing masters in computer science at The University of Georgia
-- ⌚ When I'm not in front of a computer screen, I'm probably singing, playing table-tennis or cooking my favorite food
+- ⌚ When not in front of a computer screen, I'm probably singing, playing table-tennis or cooking my favorite food
 
 <!---
 SakethJammula/SakethJammula is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
