@@ -34,9 +34,11 @@ You can click the Preview link to take a look at your changes.
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
 <br/>
+<!---
 <a href="https://github.com/sakethjammula">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakethJammula&theme=buefy&layout=compact" />
 </a>
+--->
 
 <h3> 🤝🏻 &nbsp;If you are interested in my work, feel free to connect with me </h3>
 
