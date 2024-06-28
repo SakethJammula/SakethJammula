@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SakethJammula
-- 💻 I'm a computer science grad student focused on building projects and experiences
-- 🌱 I’m currently pursuing masters in computer science at The University of Georgia
+- 💻 I'm a SDE focused on building projects and experiences
+- 🌱 Masters in computer science at The University of Georgia (2021-2023)
 - ⌚ When not in front of a computer screen, I'm probably singing, playing table-tennis or cooking my favorite food
 
 <!---
